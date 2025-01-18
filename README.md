@@ -27,7 +27,7 @@ Aquí está una captura de pantalla del proyecto en ejecución:
 ## Características
 
 - **Chat en tiempo real**: Los mensajes se envían y reciben al momento de ser enviados.
-- **EConexión WebSocket**: Uso de WebSocket para la comunicación bidireccional en tiempo real.
+- **Conexión WebSocket**: Uso de WebSocket para la comunicación bidireccional en tiempo real.
 - **Colorización de mensajes**: Diferencia los mensajes del usuario actual y los demás en burbujas espaciadas.
 
 ## Pasos para Ejecutar el Proyecto
